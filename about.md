@@ -10,6 +10,6 @@ Solar World is Solar System Installation Company In Australia.
 
 We Are In Solar System Installation For Past 7 Years With CEC Australia Certified Installers.
 
-### Contact me
+### Contact Us
 
 [abu@solarworldpower.com.au](mailto:abu@solarworldpower.com.au)
