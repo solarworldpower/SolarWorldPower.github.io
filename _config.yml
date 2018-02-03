@@ -19,17 +19,17 @@ avatar: https://avatars2.githubusercontent.com/solarworldpower
 footer-links:
   dribbble:
   email:
-  facebook:greenpowerplanetptyltd
+  facebook: https://www.facebook.com/GreenPowerPlanetPtyLtd/
   flickr:
   github: solarworldpower
   instagram: solarworldpower
-  linkedin: company/solar-world/
+  linkedin: https://www.linkedin.com/company/solar-world/
   pinterest: solarworldpower
   rss: # just type anything here for a working RSS icon
-  twitter: solarworldpower
+  twitter: https://twitter.com/SolarWorldPower
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: solarworldpower
+  googleplus: +solarworldpower
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
